@@ -1005,7 +1005,7 @@ mutation CreateGameScore {
   }
 }
 ```
-
+:)
 You should receive a response similar to this:
 
 ```json
